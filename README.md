@@ -1,6 +1,6 @@
 # Flash Assignment: Functions
 
-![The man!](https://media.giphy.com/media/QQKhpfeRQqz6M/giphy.gif)
+![The man!](https://media.giphy.com/media/l0HlW5vnelAWvmnO8/giphy.gif)
 
 ## Assignment Overview
 
@@ -13,7 +13,7 @@ This is a quick first dive into using JavaScript in the browser. Open this `inde
  
 ## Tools and Resources
 - The documentation and assets contained in this repo
-- [Lesson 5.3 from DevClassroom](https://www.devclassroom.dev/lessons/data-types)
+- [Lesson 5.3 from DevClassroom](https://www.devclassroom.dev/lessons/functions)
 
 ## Rubric
 | Below Standard  | Standard                                                                                        | Exceeds Standard |
